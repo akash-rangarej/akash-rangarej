@@ -4,7 +4,7 @@
 
 </div>
 
-###💫 About Me:
+### 💫 About Me:
 I'm currently a student<br>I'm learning solving business problems with data driven solutions<br>
 
 
